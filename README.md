@@ -1,0 +1,2 @@
+# IntelliOBB
+一个C118+osmocombb监听sms的Python全自动化前后台程序
